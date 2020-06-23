@@ -1,2 +1,2 @@
 # analog-ctrl
-An analog control board for MPC or similar optimization problems
+Analog control/solver boards for IK, MPC, or similar control and optimization problems
