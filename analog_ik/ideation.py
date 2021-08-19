@@ -1,6 +1,9 @@
 from time import sleep
-from spatialmath import SE3
 import roboticstoolbox as rtb
+from roboticstoolbox import *
+from spatialmath import *
+from spatialmath.base import *
+
 
 # instantiate 3D browser-based visualizer
 import swift
