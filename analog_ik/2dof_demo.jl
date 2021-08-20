@@ -1,4 +1,4 @@
-using Javis, Animations
+using Javis
 using Colors
 using LaTeXStrings
 
@@ -108,7 +108,7 @@ function draw_environment_latex(video, action, frame)
     )
 
     latex(
-        L"""\eta=25""",
+        L"""\eta=%$η""",
         Point(200, 215),
         :middle,
         :center
